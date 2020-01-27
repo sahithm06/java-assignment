@@ -1,0 +1,5 @@
+first string is aa :second string is aaa output : false
+first string is a :second string is alpha output: true
+first string is one :second string is onetwo output : false
+first string is zoo :second string is zoopark output : park
+first string is one :second string is one two    three output:   three
