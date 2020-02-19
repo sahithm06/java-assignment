@@ -1,0 +1,24 @@
+84.189.158.117 Mon Sep 21 17:29:14 IST 2015 GET /favicon.ico HTTP/1.0 404 621
+84.189.158.117 Wed Sep 30 17:29:14 IST 2015 GET /favicon.ico HTTP/1.0 404 622
+61.15.121.171 Mon Sep 21 17:29:21 IST 2015 GET /software.html HTTP/1.1 200 1019
+84.133.195.161 Mon Sep 14 17:29:23 IST 2015 GET /jflaptmp/ HTTP/1.1 200 2708
+84.133.195.161 Mon Sep 21 17:29:23 IST 2015 GET /images/New.gif HTTP/1.1 200 390
+84.133.195.161 Mon Sep 21 17:29:30 IST 2015 GET /jflaptmp/may15-2011/withoutSource/JFLAP.jar HTTP/1.1 200 9781243
+61.15.121.171 Wed Sep 30 17:29:46 IST 2015 GET /history.html HTTP/1.1 200 1819
+61.15.121.171 Wed Sep 30 17:30:24 IST 2015 GET /framebody.html HTTP/1.1 200 3550
+177.4.40.87 Wed Sep 30 17:30:32 IST 2015 GET / HTTP/1.1 200 859
+177.4.40.87 Wed Sep 30 17:30:32 IST 2015 GET /frameindex.html HTTP/1.1 200 1127
+
+{61.15.121.171=3, 177.4.40.87=2, 84.189.158.117=2, 84.133.195.161=3}
+the ip having most visits in weblog3-short_log is : 3
+
+the follwing are the ips having most visits[61.15.121.171, 84.133.195.161]
+
+on Sep 14the no of vistiors are 1
+on Sep 21the no of vistiors are 4
+on Sep 30the no of vistiors are 5
+
+the day having highest visits is : Sep 30
+
+the most visited ips on the day sep 30 are : [61.15.121.171, 177.4.40.87]
+

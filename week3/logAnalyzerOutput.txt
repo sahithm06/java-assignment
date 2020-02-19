@@ -1,0 +1,21 @@
+110.76.104.12 Wed Sep 30 17:17:11 IST 2015 GET //favicon.ico HTTP/1.1 200 3426
+152.3.135.44 Wed Sep 30 17:17:11 IST 2015 GET /projects/rotate/ HTTP/1.1 302 495
+152.3.135.44 Wed Sep 30 17:17:11 IST 2015 GET /projects/rotate/random_photo/ HTTP/1.1 200 1112
+152.3.135.44 Wed Sep 30 17:17:11 IST 2015 GET /favicon.ico HTTP/1.1 304 179
+157.55.39.203 Wed Sep 30 17:17:13 IST 2015 GET /courses/spring14/cps140/info.php HTTP/1.1 200 2913
+152.3.135.63 Wed Sep 30 17:17:13 IST 2015 GET /projects/rotate4k/ HTTP/1.1 302 492
+152.3.135.63 Wed Sep 30 17:17:13 IST 2015 GET /projects/rotate4k/random_photo/ HTTP/1.1 200 1055
+the unique ips in the file4
+
+
+unique ip visitors on a day are [110.76.104.12, 152.3.135.44, 157.55.39.203, 152.3.135.63]
+
+
+
+
+the ips greater than 300 status code are
+152.3.135.44 Wed Sep 30 17:17:11 IST 2015 GET /projects/rotate/ HTTP/1.1 302 495
+152.3.135.44 Wed Sep 30 17:17:11 IST 2015 GET /favicon.ico HTTP/1.1 304 179
+152.3.135.63 Wed Sep 30 17:17:13 IST 2015 GET /projects/rotate4k/ HTTP/1.1 302 492
+the unique ips in a given rangee4
+the unique ips in a given rangee2
