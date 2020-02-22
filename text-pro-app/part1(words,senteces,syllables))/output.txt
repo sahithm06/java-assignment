@@ -1,0 +1,142 @@
+The sentence on which we are perfroming the test is:
+
+Testing text: 
+This is a test.  How many???  Senteeeeeeeeeences are here... there should be 5!  Right?
+....the words and the syllables they have
+This : 1
+is : 1
+a : 1
+test : 1
+How : 1
+many : 2
+Senteeeeeeeeeences : 3
+are : 1
+here : 1
+there : 1
+should : 1
+be : 1
+Right : 1
+passed.
+
+The sentence on which we are perfroming the test is:
+
+Testing text: 
+
+....the words and the syllables they have
+passed.
+
+The sentence on which we are perfroming the test is:
+
+Testing text: 
+sentence, with, lots, of, commas.!  (And some poaren)).  The output is: 7.5.
+....the words and the syllables they have
+sentence : 2
+with : 1
+lots : 1
+of : 1
+commas : 2
+And : 1
+some : 1
+poaren : 2
+The : 1
+output : 2
+is : 1
+passed.
+
+The sentence on which we are perfroming the test is:
+
+Testing text: 
+many???  Senteeeeeeeeeences are
+....the words and the syllables they have
+many : 2
+Senteeeeeeeeeences : 3
+are : 1
+passed.
+
+The sentence on which we are perfroming the test is:
+
+Testing text: 
+Here is a series of test sentences. Your program should find 3 sentences, 33 words, and 49 syllables. Not every word will have the correct amount of syllables (example, for example), but most of them will.
+....the words and the syllables they have
+Here : 1
+is : 1
+a : 1
+series : 2
+of : 1
+test : 1
+sentences : 3
+Your : 1
+program : 2
+should : 1
+find : 1
+sentences : 3
+words : 1
+and : 1
+syllables : 3
+Not : 1
+every : 3
+word : 1
+will : 1
+have : 1
+the : 1
+correct : 2
+amount : 2
+of : 1
+syllables : 3
+example : 2
+for : 1
+example : 2
+but : 1
+most : 1
+of : 1
+them : 1
+will : 1
+passed.
+
+The sentence on which we are perfroming the test is:
+
+Testing text: 
+Segue
+....the words and the syllables they have
+Segue : 2
+passed.
+
+The sentence on which we are perfroming the test is:
+
+Testing text: 
+Sentence
+....the words and the syllables they have
+Sentence : 2
+passed.
+
+The sentence on which we are perfroming the test is:
+
+Testing text: 
+Sentences?!
+....the words and the syllables they have
+Sentences : 3
+passed.
+
+The sentence on which we are perfroming the test is:
+
+Testing text: 
+Lorem ipsum dolor sit amet, qui ex choro quodsi moderatius, nam dolores explicari forensibus ad.
+....the words and the syllables they have
+Lorem : 2
+ipsum : 2
+dolor : 2
+sit : 1
+amet : 2
+qui : 1
+ex : 1
+choro : 2
+quodsi : 2
+moderatius : 4
+nam : 1
+dolores : 3
+explicari : 4
+forensibus : 4
+ad : 1
+passed.
+
+
