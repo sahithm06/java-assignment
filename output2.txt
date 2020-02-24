@@ -1,0 +1,7 @@
+enter the pattern to search thee files
+
+[a-zA-Z]+[^4]+.txt
+regular exp :[a-zA-Z]+[^4]+.txt
+/home/sahith/Desktop/java_oops/Family heirarchy/sahith.txt
+/home/sahith/Desktop/java_oops/Fan Class/sahith123.txt
+
