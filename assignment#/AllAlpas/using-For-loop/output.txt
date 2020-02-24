@@ -1,0 +1,6 @@
+enter the string
+qazxswedcvfrtgbnhyujmkilop qweqffsveibnrb ewbidfdnvnvfivv iefnvneivnnivu
+qazxswedcvfrtgbnhyujmkilop qweqffsveibnrb ewbidfdnvnvfivv iefnvneivnnivu
+yes,given string contains all the alphabets
+time Complexity:2.86419E-4
+
