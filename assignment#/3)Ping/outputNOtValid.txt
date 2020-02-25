@@ -1,0 +1,4 @@
+enter command to execute
+ping -c 5 125.6.3.4
+not valid Or cant handle the ping request
+

@@ -1,0 +1,14 @@
+enter command to execute
+ping -c 9 www.youtube.com
+64 bytes from maa03s28-in-f14.1e100.net (172.217.31.206): icmp_seq=1 ttl=56 time=17.1 ms
+64 bytes from maa03s28-in-f14.1e100.net (172.217.31.206): icmp_seq=2 ttl=56 time=16.8 ms
+64 bytes from maa03s28-in-f14.1e100.net (172.217.31.206): icmp_seq=3 ttl=56 time=16.3 ms
+64 bytes from maa03s28-in-f14.1e100.net (172.217.31.206): icmp_seq=4 ttl=56 time=16.3 ms
+64 bytes from maa03s28-in-f14.1e100.net (172.217.31.206): icmp_seq=5 ttl=56 time=15.9 ms
+64 bytes from maa03s28-in-f14.1e100.net (172.217.31.206): icmp_seq=6 ttl=56 time=18.8 ms
+64 bytes from maa03s28-in-f14.1e100.net (172.217.31.206): icmp_seq=7 ttl=56 time=16.6 ms
+64 bytes from maa03s28-in-f14.1e100.net (172.217.31.206): icmp_seq=8 ttl=56 time=16.5 ms
+64 bytes from maa03s28-in-f14.1e100.net (172.217.31.206): icmp_seq=9 ttl=56 time=15.9 ms
+[15.9, 15.9, 16.3, 16.3, 16.5, 16.6, 16.8, 17.1, 18.8]
+the medain is 16.5
+
