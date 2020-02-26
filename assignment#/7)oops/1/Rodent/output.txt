@@ -1,0 +1,19 @@
+ from rodent class
+from rat class
+ from rodent class
+from Gerbil
+ from rodent class
+from the Hamster
+Rat is eating
+Rat is sleping
+Rat is moving
+Rat is making sound
+Gerbil is eating
+Gerbil is sleping
+gerbil  is moving
+gerbil is making sound
+Hamster is eating
+Hamster is sleping
+hamster  is moving
+hamster is making sound
+

@@ -1,0 +1,2 @@
+hii sent by innerclass2 which inherited innerclass1  
+

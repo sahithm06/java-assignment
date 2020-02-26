@@ -1,0 +1,7 @@
+from uni cycle
+from bicycle 
+parent class Cycle
+from uni cycle
+from bicycle 
+parent class Cycle
+

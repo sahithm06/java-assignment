@@ -1,0 +1,9 @@
+entr the sentece to check
+The java.util* is a sentece.
+starts with capital and ends with period
+entr the sentece to check
+The java.util* is a sentece
+deosn't starts with capital and ends with period
+entr the sentece to check
+The java.util* is a sentece.sfsfbsfbfd efbfb efefbfabe...
+starts with capital and ends with period

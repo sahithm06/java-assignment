@@ -1,0 +1,2 @@
+the square of number 5.5 is 30.25
+the square of number 5 is 25
