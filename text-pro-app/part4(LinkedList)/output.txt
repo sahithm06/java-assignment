@@ -1,0 +1,15 @@
+2
+6
+4
+5
+java.lang.IndexOutOfBoundsException
+	at textgen.MyLinkedList.set(MyLinkedList.java:218)
+	at textgen.LinkedListadd.main(LinkedListadd.java:22)
+changed elementnull
+changed element5
+size: 4
+2
+6
+4
+10
+
