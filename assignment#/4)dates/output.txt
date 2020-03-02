@@ -1,0 +1,26 @@
+5
+16-07-1998 27-06-2017
+04-02-2016 04-04-2017
+04-05-2017 04-04-2017
+04-04-2015 04-04-2016
+04-04-2015 15-03-2016
+The anniversary date is Thu Jul 16 00:00:00 IST 1998 
+the current date is Tue Jun 27 00:00:00 IST 2017
+16-06-2018
+15-08-2018
+The anniversary date is Thu Feb 04 00:00:00 IST 2016 
+the current date is Tue Apr 04 00:00:00 IST 2017
+05-01-2018
+06-03-2018
+The anniversary date is Thu May 04 00:00:00 IST 2017 
+the current date is Tue Apr 04 00:00:00 IST 2017
+No range
+The anniversary date is Sat Apr 04 00:00:00 IST 2015 
+the current date is Mon Apr 04 00:00:00 IST 2016
+05-03-2017
+04-05-2017
+The anniversary date is Sat Apr 04 00:00:00 IST 2015 
+the current date is Tue Mar 15 00:00:00 IST 2016
+05-03-2017
+04-05-2017
+
