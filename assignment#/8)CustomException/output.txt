@@ -1,0 +1,16 @@
+Enter a age :
+67
+Error :over age
+This is finally block is executed anyway, all possible errors are caught.
+
+Enter a age :
+12
+Error :under age
+This is finally block is executed anyway, all possible errors are caught.
+
+Enter a age :
+
+Error :No age found.
+This is finally block is executed anyway, all possible errors are caught.
+
+
